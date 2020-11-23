@@ -1,2 +1,5 @@
 # javascript_study_20201123
 Created with CodeSandbox
+
+UdemyのReactのコースを受講する前にjavascriptのES6という単語をそもそも知らんので調査と演習をする。
+ー＞結果そもそも実戦で使用していたものもあった(mapとか)そうでない場合もかなり勉強になった。
